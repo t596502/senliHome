@@ -1,0 +1,16 @@
+
+
+body, html{
+  line-height: 1;
+  font-family: SourceHanSansCN-Regular, 'STHeitiSC-Light', 'Helvetica-Light', arial, sans-serif, 'Droid Sans Fallback';
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+  height:100%;
+  background: #f6f6f6;
+}
+.flex-column{
+  display :flex;
+  flex-direction :column;
+}
+
+
